@@ -1,0 +1,5 @@
+name: demo
+basePackage: org.lamisplus.modules.demo
+description: demo test module
+version: 1
+moduleType: 1
